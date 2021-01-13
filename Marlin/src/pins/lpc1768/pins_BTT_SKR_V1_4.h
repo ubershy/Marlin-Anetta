@@ -305,7 +305,7 @@
     #define BEEPER_PIN              EXPA1_03_PIN
 
   #elif ENABLED(ANET_FULL_GRAPHICS_LCD)
-    #error "CAUTION! ANET_FULL_GRAPHICS_LCD requires wiring modifications. See 'pins_BTT_SKR_V1_4.h' for details. Comment out this line to continue."
+//    #error "CAUTION! ANET_FULL_GRAPHICS_LCD requires wiring modifications. See 'pins_BTT_SKR_V1_4.h' for details. Comment out this line to continue."
 
    /**
     * 1. Cut the tab off the LCD connector so it can be plugged into the "EXP1" connector the other way.

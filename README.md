@@ -1,3 +1,11 @@
+# Anetta
+
+This is the firmware for my Anetta 3D printer (heavily modified Anet A6).  
+This firmware is based on bugfix-2.0.x branch of Marlin firmware.  
+My personal comments start with "Litty: " in the configuration files. 
+
+Below is the original readme.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
